@@ -8,10 +8,13 @@
               <article class="content">
                 <h1 class="mb-4">About</h1>
                 <p class="lead mb-4">
-                  Welcome to PhotoScope, your number one source for all things
-                  premium photography. We are committed to providing you with
-                  the best stock photography focused on reliability, customer
-                  service and customer satisfaction.
+                  <h2>Bienvenidos</h2>
+
+My name is Fernando Pantoja and I am well known as DJ Ferchi. I am currently working in Central & Northern New York, NYC, and South America providing DJ entertainment in clubs, restaurants, lounges, and bars with my 4000W sound system and extensive dancefloor lighting system as needed.
+
+<blockquote>I provide specialized music dance party sets for the following genres: Hip Hop, Reggaeton, Salsa, Bachata, Merengue, Cumbia and Crossover.</blockquote>
+
+For an awesome Latin/ hip-hop entertainment experience, email Fernando Pantoja pantojafernando@gmail.com
                 </p>
               </article>
             </b-col>
@@ -40,7 +43,7 @@
                   <p class="text-center text-muted font-weight-light">
                     <small>
                       <i>
-                        Kimberly Henderson, Founder of PhotoScope
+                        Fernando Pantoja, DJ Ferchi
                       </i>
                     </small>
                   </p>
@@ -59,32 +62,19 @@
             <b-col class="mx-auto" cols="12" lg="10">
               <article class="content">
                 <p>
-                  We're working to turn our passion for photography into a
-                  booming online store. We hope you enjoy our products as much
-                  as we enjoy offering them to you.
+                  DJFERCHI entertainment. Disco móvil DJ. I’m proud to be your professional Móvil DJ service and source for wedding & event entertainment in Central & Northern NY. DJ Services Are Perfect For: * Weddings * Birthdays * Sweet 15's & 16's * Anniversaries * Graduations *Clubs. * Lounge. *Restaurant. * Bar. *Bachelor. *Patio Pool BBQ. *In & Out of USA. 
                 </p>
 
                 <blockquote class="blockquote">
                   <p class="mb-2">
-                    Photography is a way of feeling, of touching, of loving.
-                    What you have caught on film is captured forever… It
-                    remembers little things, long after you have forgotten
-                    everything.
-                  </p>
+                  Comenzando el Nuevo año con buenos proyectos, Ahora a nivel nacional eh internacional DJFERCHI entertainment. Servicio completo y pro. Para *Matrimonio *Cumpleanos *Aniversarios *Graduaciones *Fiestas patronales *Clubs. *Lounge. *Restaurante. *Bar. *Despedidas de solteros. *Piscina y BBQ Parties. *Dentro y fuera del país.                  </p>
                   <footer class="blockquote-footer">
-                    Famous Photographer,
-                    <cite title="Aaron Siskind">Aaron Siskind</cite>
+                    DJ,
+                    <cite title="Aaron Siskind">Ferchi</cite>
                   </footer>
                 </blockquote>
 
-                <p>
-                  Praeterea iter est quasdam res quas ex communi. Cras mattis
-                  iudicium purus sit amet fermentum. Hi omnes lingua,
-                  institutis, legibus inter se differunt. Unam incolunt Belgae,
-                  aliam Aquitani, tertiam. Magna pars studiorum, prodita
-                  quaerimus. Quo usque tandem abutere, Catilina, patientia
-                  nostra? Cum sociis natoque penatibus et magnis dis parturient.
-                </p>
+        
               </article>
             </b-col>
           </b-row>
