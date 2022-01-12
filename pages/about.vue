@@ -151,7 +151,7 @@ export default {
     return {
       pageTitle: 'About',
       pageDescription:
-        'proud to be your professional Móvil DJ service and source for wedding & event entertainment in Central & Northern NY. DJ Services Are Perfect For: * Weddings * Birthdays * Sweet 15's & 16's * Anniversaries * Graduations *Clubs. * Lounge. *Restaurant. * Bar. *Bachelor. *Patio Pool BBQ. *In & Out of USA.',
+        'Proud to be your professional Móvil DJ service and source for wedding & event entertainment in Central & Northern NY. DJ Services Are Perfect For: * Weddings * Birthdays * Sweet 15s & 16s * Anniversaries * Graduations *Clubs. * Lounge. *Restaurant. * Bar. *Bachelor. *Patio Pool BBQ. *In & Out of USA.',
       testimonials: [
         {
           name: 'Happy patron',
