@@ -6,15 +6,11 @@
           <b-row>
             <b-col class="mx-auto" cols="12" lg="10">
               <article class="content">
-                <h1 class="mb-4">About</h1>
+                <h1 class="mb-4">Bienvenidos</h1>
                 <p class="lead mb-4">
-                  <h2>Bienvenidos</h2>
-
-My name is Fernando Pantoja and I am well known as DJ Ferchi. I am currently working in Central & Northern New York, NYC, and South America providing DJ entertainment in clubs, restaurants, lounges, and bars with my 4000W sound system and extensive dancefloor lighting system as needed.
-
-<blockquote>I provide specialized music dance party sets for the following genres: Hip Hop, Reggaeton, Salsa, Bachata, Merengue, Cumbia and Crossover.</blockquote>
-
-For an awesome Latin/ hip-hop entertainment experience, email Fernando Pantoja pantojafernando@gmail.com
+                  My name is Fernando Pantoja and I am well known as DJ Ferchi. I am currently working in Central & Northern New York, NYC, and South America providing DJ entertainment in clubs, restaurants, lounges, and bars with my 4000W sound system and extensive dancefloor lighting system as needed.
+                  <blockquote>I provide specialized music dance party sets for the following genres: Hip Hop, Reggaeton, Salsa, Bachata, Merengue, Cumbia and Crossover.</blockquote>
+                  For an awesome Latin/ hip-hop entertainment experience, email Fernando Pantoja pantojafernando@gmail.com
                 </p>
               </article>
             </b-col>
@@ -70,7 +66,7 @@ For an awesome Latin/ hip-hop entertainment experience, email Fernando Pantoja p
                   Comenzando el Nuevo año con buenos proyectos, Ahora a nivel nacional eh internacional DJFERCHI entertainment. Servicio completo y pro. Para *Matrimonio *Cumpleanos *Aniversarios *Graduaciones *Fiestas patronales *Clubs. *Lounge. *Restaurante. *Bar. *Despedidas de solteros. *Piscina y BBQ Parties. *Dentro y fuera del país.                  </p>
                   <footer class="blockquote-footer">
                     DJ,
-                    <cite title="Aaron Siskind">Ferchi</cite>
+                    <cite title="Ferchi">Ferchi</cite>
                   </footer>
                 </blockquote>
 
@@ -131,7 +127,7 @@ For an awesome Latin/ hip-hop entertainment experience, email Fernando Pantoja p
   </div>
 </template>
 <script>
-const PhotoOne = () => import('~/assets/images/persone-1.jpg')
+const PhotoOne = () => import('https://www.datocms-assets.com/60992/1641703943-djferchi2e-2xl.png?auto=format&crop=faces&dpr=0.75&fit=crop&h=540&w=360')
 
 export default {
   name: 'About',
@@ -155,31 +151,31 @@ export default {
     return {
       pageTitle: 'About',
       pageDescription:
-        'Welcome to PhotoScope, your number one source for all things premium photography. We are committed to providing you with the best stock photography focused on reliability, customer service and customer satisfaction.',
+        'proud to be your professional Móvil DJ service and source for wedding & event entertainment in Central & Northern NY. DJ Services Are Perfect For: * Weddings * Birthdays * Sweet 15's & 16's * Anniversaries * Graduations *Clubs. * Lounge. *Restaurant. * Bar. *Bachelor. *Patio Pool BBQ. *In & Out of USA.',
       testimonials: [
         {
-          name: 'Michael Hunter',
+          name: 'Happy patron',
           image: () => require('~/assets/images/client3.jpg'),
           company: 'Netflix',
           occupation: 'Sales Manager',
           body:
-            "Stock photography has really helped our business. I have gotten at least 50 times the value from stock. It's all good. You can be sure that Stock photography is an industry where you get your money's worth."
+            "DJ Ferchi rocked our party beyond belief. C."
         },
         {
-          name: 'Mary Garcia',
+          name: 'Satisfied customer',
           image: () => require('~/assets/images/client1.jpg'),
           company: 'Umbrella Inc.',
           occupation: 'Sales Engineer',
           body:
-            "It's incredible. No matter where you go, Photography is the coolest, most happening thing around! Without photography, it would not be possible to grow our business so much."
+            "Create a night to remember. Get our and see or book DJ Ferchi! Life gets better and better."
         },
         {
-          name: 'Lucille McCraney',
+          name: 'Amigo en Pasaje',
           image: () => require('~/assets/images/client2.jpg'),
           company: 'ACME',
           occupation: 'Founder',
           body:
-            "Custom photography is the most valuable business resource we have evet purchased. It's just amazing. You won't regret it."
+            "Ferchi esta de Pasaje, Ecuador un artiste del mundo con corozon en Ecuador y New York."
         }
       ]
     }
