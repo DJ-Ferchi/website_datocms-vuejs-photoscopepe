@@ -1,8 +1,8 @@
 export const state = () => ({
   current: 0,
   next: 0,
-  playing: false, // set true if you want to play automatically
-  duration: 5000,
+  playing: true, // set true if you want to play automatically
+  duration: 4200,
   slides: []
 })
 

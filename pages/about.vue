@@ -8,9 +8,9 @@
               <article class="content">
                 <h1 class="mb-4">About</h1>
                 <p class="lead mb-4">
-                  Welcome to PhotoScope, your number one source for all things
-                  premium photography. We are committed to providing you with
-                  the best stock photography focused on reliability, customer
+                  DJ Ferchi 
+                  committed to providing you with
+                  the best live entertainment
                   service and customer satisfaction.
                 </p>
               </article>
@@ -40,7 +40,7 @@
                   <p class="text-center text-muted font-weight-light">
                     <small>
                       <i>
-                        Kimberly Henderson, Founder of PhotoScope
+                        Fernando Pantoja, DJ Ferchi  January 2022
                       </i>
                     </small>
                   </p>
@@ -59,32 +59,36 @@
             <b-col class="mx-auto" cols="12" lg="10">
               <article class="content">
                 <p>
-                  We're working to turn our passion for photography into a
-                  booming online store. We hope you enjoy our products as much
-                  as we enjoy offering them to you.
+                  DJ Ferchi rocked our party beyond belief!
                 </p>
 
                 <blockquote class="blockquote">
                   <p class="mb-2">
-                    Photography is a way of feeling, of touching, of loving.
-                    What you have caught on film is captured forever… It
-                    remembers little things, long after you have forgotten
-                    everything.
+                    Create a night to remember. Get out and see DJ Ferchi live! Life gets better and better!
                   </p>
                   <footer class="blockquote-footer">
-                    Famous Photographer,
-                    <cite title="Aaron Siskind">Aaron Siskind</cite>
+                    Fan,
+                    <cite title="Aaron Siskind">Citizen of the Musicverse</cite>
                   </footer>
                 </blockquote>
 
-                <p>
-                  Praeterea iter est quasdam res quas ex communi. Cras mattis
-                  iudicium purus sit amet fermentum. Hi omnes lingua,
-                  institutis, legibus inter se differunt. Unam incolunt Belgae,
-                  aliam Aquitani, tertiam. Magna pars studiorum, prodita
-                  quaerimus. Quo usque tandem abutere, Catilina, patientia
-                  nostra? Cum sociis natoque penatibus et magnis dis parturient.
-                </p>
+		<p>
+                    DJ Ferchi Entertainment. Disco Movil DJ. I'm proud to be your professional Movil DJ service and source for wedding & event entertainment in Central and Northern New York.  DJ Services are perfect for:
+		<ul>
+			<li>Weddings</li>
+			<li>Birthdays</li>
+			<li>Sweet 15's & 15's</li>
+			<li>Anniversaries</li>
+			<li>Graduations</li>
+			<li>Clubs</li>
+			<li>Lounge</li>
+			<li>Restaurant</li>
+			<li>Bar</li>
+			<li>Bachelor</li>
+			<li>Patio Pool BBQ</li>
+			<li>* In & Out of USA</li>
+                </ul>
+		</p>
               </article>
             </b-col>
           </b-row>
@@ -98,8 +102,7 @@
           <div class="content">
             <p class="text-center mb-4">
               <i>
-                You can see some of our partners below, would you like to join
-                us?
+               Call DJ Ferchi to book an unforgettable experience. 315-566-9138
               </i>
             </p>
           </div>
@@ -130,8 +133,8 @@
         <b-row class="my-4">
           <b-col :cols="12" :offset="0" :lg="6" :offset-lg="3">
             <div class="mb-4">
-              <h3 class="h2">Get in Touch</h3>
-              <p class="lead">Have any questions?</p>
+              <h3 class="h2">Contact DJ Ferchi</h3>
+              <p class="lead">Please share your thoughts</p>
             </div>
             <ContactForm />
           </b-col>
@@ -165,31 +168,31 @@ export default {
     return {
       pageTitle: 'About',
       pageDescription:
-        'Welcome to PhotoScope, your number one source for all things premium photography. We are committed to providing you with the best stock photography focused on reliability, customer service and customer satisfaction.',
+        'Welcome to DJFerchi.com.  We are working to provide a good user experience. Please let us know if you see anything out of place.',
       testimonials: [
         {
-          name: 'Michael Hunter',
+          name: 'Happy Patron',
           image: () => require('~/assets/images/client3.jpg'),
-          company: 'Netflix',
-          occupation: 'Sales Manager',
+          company: 'Undisclosed Client',
+          occupation: 'Booking Agent',
           body:
-            "Stock photography has really helped our business. I have gotten at least 50 times the value from stock. It's all good. You can be sure that Stock photography is an industry where you get your money's worth."
+            "DJ Ferchi rocked our party beyond belief."
         },
         {
-          name: 'Mary Garcia',
+          name: 'Satisfied Customer',
           image: () => require('~/assets/images/client1.jpg'),
-          company: 'Umbrella Inc.',
-          occupation: 'Sales Engineer',
+          company: 'Professional Contact',
+          occupation: 'Music Industry',
           body:
-            "It's incredible. No matter where you go, Photography is the coolest, most happening thing around! Without photography, it would not be possible to grow our business so much."
+            "Create a night to remember.  Get out and see or book DJ Ferchi! Life gets better and better."
         },
         {
-          name: 'Lucille McCraney',
+          name: 'Amigo en Pasaje',
           image: () => require('~/assets/images/client2.jpg'),
-          company: 'ACME',
+          company: 'Ecuador',
           occupation: 'Founder',
           body:
-            "Custom photography is the most valuable business resource we have evet purchased. It's just amazing. You won't regret it."
+            "Ferchi esta de Pesaje, Ecuador con un corozon del mundo. Muy professional y mumbatonado."
         }
       ]
     }

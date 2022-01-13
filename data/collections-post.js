@@ -9,37 +9,37 @@ export default [
       'Animals are quisque ut dolor gravida, placerat libero vel, euismod. A communi observantia non est recedendum. Tu quoque, Brute, fili mi, nihil timor populi, nihil!',
     articles: [
       {
-        title: 'Wildlife of South Africa',
+        title: 'Cumbia',
         description: 'Short  description for lightbox',
         body:
-          'Wildlife Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Petierunt uti sibi concilium totius Galliae in diem certam indicere.',
+          'Cumbia music vivamus sagittis lacus vel augue laoreet rutrum faucibus. Petierunt uti sibi concilium totius Galliae in diem certam indicere.',
         image: () => require('~/assets/images/collections/animals/image-1.jpg')
       },
       {
-        title: 'Giraffe Sed haec',
+        title: 'Crossoveer',
         body:
-          'Giraffe Excepteur sint obcaecat cupiditat non proident culpa. Pellentesque habitant morbi tristique senectus et netus. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.<br/><br/>Unam incolunt Belgae, aliam Aquitani, tertiam.',
+          'Crossover Excepteur sint obcaecat cupiditat non proident culpa. Pellentesque habitant morbi tristique senectus et netus. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.<br/><br/>Unam incolunt Belgae, aliam Aquitani, tertiam.',
         image: () => require('~/assets/images/collections/animals/image-2.jpg')
       }
     ],
     gallery: [
       {
-        title: 'Contra legem facit qui id',
+        title: 'Hiphop',
         description: 'Photo by Mark Wilson',
         image: () => require('~/assets/images/collections/animals/image-3.jpg')
       },
       {
-        title: 'Excepteur sint obcaecat',
+        title: 'Reggaeton',
         description: 'Photo by Dwight Royce',
         image: () => require('~/assets/images/collections/animals/image-4.jpg')
       },
       {
-        title: 'Cras mattis iudicium',
+        title: 'Salsa',
         description: 'Photo by Olivia Leong',
         image: () => require('~/assets/images/collections/animals/image-5.jpg')
       },
       {
-        title: 'Magna pars studiorum',
+        title: 'Bachata',
         description: 'Photo by Lorna Fox',
         image: () => require('~/assets/images/collections/animals/image-6.jpg')
       }
@@ -270,13 +270,13 @@ export default [
     gallery: []
   },
   {
-    title: 'People',
+    title: 'Cumbia',
     slug: 'people',
     info:
-      'Taking photographs of people is one of the most difficult jobs, because it is difficult to stay in the right time and right emotion.',
+      'Cumbia refers to a number of musical rhythms and folk dance traditions of Latin America, generally involving musical and cultural elements from Amerindians, Africans enslaved during colonial times',
     image: () => require('~/assets/images/collections/people/people.jpg'),
     description:
-      'Real people, captured. Photography has the power to reflect the world around us, give voice to individuals and groups within our communities — and most importantly — tell their story.',
+      'Colombian cumbia, is a musical rhythm and traditional folk dance from Colombia. It has elements of three different cultures, American Indian, African, and to a lesser extent, Spanish, being the result of the long and intense meeting of these cultures. - Wikipedia',
     articles: [
       {
         title: 'Little girl and her mother',

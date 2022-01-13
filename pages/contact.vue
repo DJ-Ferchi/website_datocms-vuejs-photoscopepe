@@ -35,12 +35,12 @@
                     itemtype="http://schema.org/PostalAddress"
                   >
                     <span itemprop="streetAddress">
-                      332 Arrowood Drive
+                      5295 County Rd 27
                     </span>
                     <br />
-                    <span itemprop="addressLocality">Jacksonville</span>,
-                    <span itemprop="addressRegion">FL</span>
-                    <span itemprop="postalCode">32258</span>
+                    <span itemprop="addressLocality">Canton</span>,
+                    <span itemprop="addressRegion">NY</span>
+                    <span itemprop="postalCode">13617</span>
                   </div>
                 </div>
               </b-col>
@@ -56,37 +56,13 @@
                   <div itemscope itemtype="http://schema.org/LocalBusiness">
                     <p class="mb-0">
                       <span itemprop="telephone">
-                        <a href="tel:+18506484200">850-100-2030</a>
-                      </span>
-                    </p>
-                    <p class="mb-0">
-                      <span itemprop="telephone">
-                        <a href="tel:+19045377356">850-100-2032</a>
+                        <a href="tel:+18506484200">315-566-9138</a>
                       </span>
                     </p>
                   </div>
                 </div>
               </b-col>
 
-              <b-col :cols="12" :md="6" :lg="6">
-                <div
-                  class="d-flex align-items-baseline justify-content-center mb-4"
-                >
-                  <p class="mb-0 mr-2">
-                    <span class="sr-only">Opening hours</span>
-                    <unicon name="store" fill="currentColor" />
-                  </p>
-                  <div>
-                    <p>
-                      <b>Mo-Fr</b> 10AM - 7PM <br />
-                      <b>Sa-Su</b> 12AM - 7PM <br />
-                    </p>
-                    <meta itemprop="openingHours" content="Mo-Fr 10:00-19:00" />
-                    <meta itemprop="openingHours" content="Sa 12:00-19:00" />
-                    <meta itemprop="openingHours" content="Su 12:00-19:00" />
-                  </div>
-                </div>
-              </b-col>
             </b-row>
             <b-row>
               <b-col :cols="12">

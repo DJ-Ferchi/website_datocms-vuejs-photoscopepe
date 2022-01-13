@@ -37,7 +37,7 @@
             <div class="dropdown__menu-svg">
               <unicon name="images" fill="currentColor" />
             </div>
-            <div class="dropdown__menu-text">Collections</div>
+            <div class="dropdown__menu-text">Genres</div>
           </nuxt-link>
         </li>
         <li class="dropdown__menu-item">
@@ -45,7 +45,7 @@
             <div class="dropdown__menu-svg">
               <unicon name="document-layout-left" fill="currentColor" />
             </div>
-            <div class="dropdown__menu-text">Blog</div>
+            <div class="dropdown__menu-text">Videos</div>
           </nuxt-link>
         </li>
         <li class="dropdown__menu-item">

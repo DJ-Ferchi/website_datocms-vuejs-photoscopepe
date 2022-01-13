@@ -21,9 +21,14 @@
               class="form-rounded item action-button"
               pill
               :variant="isLight"
+	      @click="showModal"
             >
               Book an Event
             </b-button>
+            <Modal
+      		v-show="isModalVisible"
+      		@close="closeModal"
+            />
             <MainMenuButton
               ref="siteMenu"
               v-closable="{
@@ -53,7 +58,8 @@ export default {
   name: 'Header',
   components: {
     MainMenu: () => import('~/components/MainMenu'),
-    MainMenuButton: () => import('~/components/MainMenuButton')
+    MainMenuButton: () => import('~/components/MainMenuButton'),
+    Modal: () => import('~/components/Modal')
   },
   mixins: [global],
   props: {
@@ -71,6 +77,15 @@ export default {
     },
     toggleMenu: {
       type: Function,
+      required: true
+    },
+    showModal: {
+      type: Function,
+      required: true
+    },
+    closeModal: {
+      type: Function,
+      
       required: true
     }
   },

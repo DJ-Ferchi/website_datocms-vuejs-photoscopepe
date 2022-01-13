@@ -6,11 +6,11 @@
           <b-row>
             <b-col>
               <transition name="fade" appear>
-                <h1>Collections</h1>
+                <h1>Genres</h1>
               </transition>
               <transition name="fade" appear>
                 <p class="lead">
-                  Hand-picked awesome works from all around the world
+                  Specialized music dance party sets for the following genres: Hip Hop, Reggaeton, Salsa, Bachata, Merengue, Cumbia and Crossover
                 </p>
               </transition>
             </b-col>
@@ -62,10 +62,10 @@
         <b-container>
           <b-row>
             <b-col :cols="12" :md="10" :offset-md="1" :lg="4" :offset-lg="8">
-              <h2 class="text-light">Photography</h2>
+              <h2 class="text-light">DJ Service</h2>
               <p class="lead text-light">
-                We hope you enjoy our services as much as we enjoy offering them
-                to you.
+                I hope you enjoy my services as much as I enjoy providing it
+                to you. - DJ Ferchi
               </p>
               <b-button class="form-rounded" pill variant="outline-light">
                 Hire Us
@@ -98,7 +98,7 @@ export default {
   data() {
     return {
       pageTitle: 'Collections',
-      pageDescription: 'Hand-picked awesome works from all around the world',
+      pageDescription: 'Specialized music dance party sets for the following genres: Hip Hop, Reggaeton, Salsa, Bachata, Merengue, Cumbia and Crossover',
       show: false,
       selected: '',
       savedScroll: 0,
