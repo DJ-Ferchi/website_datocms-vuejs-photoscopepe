@@ -68,7 +68,7 @@
                 to you. - DJ Ferchi
               </p>
               <b-button class="form-rounded" pill variant="outline-light">
-                Hire Us
+                Book an Event
               </b-button>
             </b-col>
           </b-row>

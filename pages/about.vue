@@ -190,7 +190,7 @@ export default {
           name: 'Amigo en Pasaje',
           image: () => require('~/assets/images/client2.jpg'),
           company: 'Ecuador',
-          occupation: 'Founder',
+          occupation: 'Ecuadorian',
           body:
             "Ferchi esta de Pesaje, Ecuador con un corozon del mundo. Muy professional y mumbatonado."
         }

@@ -41,14 +41,6 @@
           </nuxt-link>
         </li>
         <li class="dropdown__menu-item">
-          <nuxt-link to="/blog" class="dropdown__menu-link" title="Blog" exact>
-            <div class="dropdown__menu-svg">
-              <unicon name="document-layout-left" fill="currentColor" />
-            </div>
-            <div class="dropdown__menu-text">Videos</div>
-          </nuxt-link>
-        </li>
-        <li class="dropdown__menu-item">
           <nuxt-link
             to="/contact"
             class="dropdown__menu-link"

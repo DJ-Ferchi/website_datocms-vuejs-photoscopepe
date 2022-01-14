@@ -1,12 +1,12 @@
 export default [
   {
-    title: 'Animals',
+    title: 'Hip Hop',
     slug: 'animals',
     info:
-      'Animals are Curabitur est gravida et libero vitae dictum. Quisque ut dolor gravida, placerat libero vel, euismod.',
+      'DJ Ferchi, having resided in Astoria Queens for over 25 years, specializes in cutting hip hop mixing for the dance floor',
     image: () => require('~/assets/images/collections/animals/animals.jpg'),
     description:
-      'Animals are quisque ut dolor gravida, placerat libero vel, euismod. A communi observantia non est recedendum. Tu quoque, Brute, fili mi, nihil timor populi, nihil!',
+      ' with a strong cultural understanding of what moves people,  a mobile professional lighting system, and 4000 Watts of dancefloor sound power.',
     articles: [
       {
         title: 'Cumbia',
@@ -16,9 +16,9 @@ export default [
         image: () => require('~/assets/images/collections/animals/image-1.jpg')
       },
       {
-        title: 'Crossoveer',
+        title: 'Bachata',
         body:
-          'Crossover Excepteur sint obcaecat cupiditat non proident culpa. Pellentesque habitant morbi tristique senectus et netus. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua.<br/><br/>Unam incolunt Belgae, aliam Aquitani, tertiam.',
+          'Bachata is a genre of Latin American music that originated in the Dominican Republic in the first half of the 20th century. It is a fusion of southwestern European influences, mainly Spanish guitar music, with indigenous Taino and Sub Saharan African musical elements, representative of the cultural diversity of the Dominican population.',
         image: () => require('~/assets/images/collections/animals/image-2.jpg')
       }
     ],
@@ -46,37 +46,29 @@ export default [
     ]
   },
   {
-    title: 'Landscape',
+    title: 'Reggaeton',
     slug: 'landscape',
     info:
-      'Landscape photos are Quis aute iure reprehenderit in voluptate velit esse. Quisque ut dolor gravida, placerat libero vel, euismod.',
+      'Reggaeton also known as reggaetón and reguetón (Spanish: [reɣeˈton]), is a music style that originated in Puerto Rico during the mid-1990s. It has evolved from dancehall and has been influenced by American hip hop, Latin American, and Caribbean music. Vocals include rapping and singing, typically in Spanish. .',
     image: () => require('~/assets/images/collections/landscape/landscape.jpg'),
     description:
-      'Landscape photos Integer legentibus erat a ante historiarum dapibus. Quis aute iure reprehenderit in voluptate velit esse. Inmensae subtilitatis, obscuris et malesuada fames. Phasellus laoreet lorem vel dolor tempus vehicula. Plura mihi bona sunt, inclinet, amari petere vellent.',
+      'Reggaeton is regarded as one of the most popular music genres in the Spanish-speaking Caribbean, in countries including Puerto Rico, Panama, Dominican Republic, Cuba, Colombia, and Venezuela. Over the 2010s, the genre has seen increased popularity across Latin America, as well as acceptance within mainstream Western music.',
     articles: [
       {
-        title: 'A shed by the lake',
-        description: 'Photo by Luca Bravo',
+        title: 'Daddy Yankee',
+        description: 'the father of Reggaeton',
         body:
-          'This rustic shack you see on the lake shore gives a feeling of peace and quiet. You can immediately feel the ambiance that immerses you in photography.',
+          '...known as the "King of Reggaetón" by music critics and fans alike.[7] Daddy Yankee is the artist who coined the word reggaeton in 1994 to describe the new music genre that was emerging from Puerto Rico that synthesized American hip-hop, Latin Caribbean music, and Jamaican reggae rhythms with Spanish rapping and singing.<BR><BR>Daddy Yankee has won five Latin Grammy Awards, two Billboard Music Awards, 14 Billboard Latin Music Awards, two Latin American Music Awards, eight Lo Nuestro Awards, an MTV Video Music Award, and six ASCAP Awards. He also received a Puerto Rican Walk of Fame star, special awards by People en Español magazine, and the Presencia Latina at Harvard University. He was named by CNN as the "Most Influential Hispanic Artist" of 2009, and included in Time 100 in 2006.',
         image: () =>
           require('~/assets/images/collections/landscape/image-1.jpg')
       },
       {
-        title: 'The colors of the sunset',
-        description: 'Photo by Rodrigo Soares',
+        title: 'J Balvin',
+        description: 'José Álvaro Osorio Balvín is a Colombian singer and rapper. He has been referred to as the "Príncipe del Reggaetón", and is one of the best-selling Latin music artists with sales of more than 35 million records (albums and singles) worldwide. Balvin was born in Medellín, Colombia. At age 17, he moved to the United States to learn English, where he lived in both Oklahoma and New York. He then returned to Medellín and gained popularity performing at clubs in the city.',
         body:
-          "The blending colors of the sunset look so great that you can't take your eyes off this beautiful view.",
+          "Balvin has won five Billboard Latin Music Awards, four Latin Grammy Awards, two MTV Video Music Awards and four Latin American Music Awards and received two Grammy Award nominations. In 2017, the BMI Latin Awards named him the Contemporary Latin Songwriter of the Year for his contribution in the Latin music industry,[5] and has won the first Global Icon Award given by Lo Nuestro Awards, in recognition of his contribution to spread Latin music worldwide.[6] He became the first Latino to headline world-musical events such as Coachella, Tomorrowland, and Lollapalooza.[6] The Guinness World Records acknowledged him as a \"leader of a second generation reggaeton revolution\".<BR><BR>In 2020, Balvin was included on Time magazine annual list of the 100 most influential people of the world, and as one of the Greatest Latin Artists of all Time by Billboard.",
         image: () =>
           require('~/assets/images/collections/landscape/image-2.jpg')
-      },
-      {
-        title: 'Summit snowy mountains',
-        description: 'Photo by Rodrigo Soares',
-        body:
-          'Covered with steep cliffs, this mountain looks so imposing that you feel a slight trembling within you and climbing to the top of this mountain will be quite troublesome.',
-        image: () =>
-          require('~/assets/images/collections/landscape/image-3.jpg')
       }
     ],
     gallery: [
@@ -119,69 +111,23 @@ export default [
     ]
   },
   {
-    title: 'Architecture',
+    title: 'Salsa',
     slug: 'architecture',
     info:
-      'Architecture is Gallia est omnis divisa in partes tres, quarum. Plura mihi bona sunt, inclinet, amari petere vellent.',
+      'Because most of the basic musical components predate the labeling of salsa, there have been many controversies regarding its origin. Most songs considered as salsa are primarily based on son montuno,[5] with elements of mambo, Latin jazz, bomba, plena and guaracha.[6] All of these elements are adapted to fit the basic son montuno template when performed within the context of salsa.',
     image: () =>
-      require('~/assets/images/collections/architecture/architecture.jpg'),
+      require('~/assets/images/collections/animals/image-2.jpg'),
     description:
-      'Architecture vivamus sagittis lacus vel augue laoreet rutrum faucibus. Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Donec sed odio operae, eu vulputate felis rhoncus. Tityre, tu patulae recubans sub tegmine fagi  dolor. Quisque ut dolor gravida, placerat libero vel, euismod. Cum sociis natoque penatibus et magnis dis parturient.',
-    articles: [
-      {
-        title: 'Rock and Roll Hall of Fame',
-        description: 'Photo by Lance Anderson',
-        body:
-          'The Rock and Roll Hall of Fame (RRHOF) is a museum and hall of fame located in downtown Cleveland, Ohio, United States, on the shore of Lake Erie.',
-        image: () =>
-          require('~/assets/images/collections/architecture/image-1.jpg')
-      },
-      {
-        title: 'Den Norske Operas hus',
-        description: 'Photo by Jonas Jacobsson',
-        body:
-          'Tu quoque, Brute, fili mi, nihil timor populi, nihil! Donec sed odio operae, eu vulputate felis rhoncus.',
-        image: () =>
-          require('~/assets/images/collections/architecture/image-2.jpg')
-      },
-      {
-        title: 'Upper West',
-        description: 'Photo by Artem Sapegin',
-        body:
-          'Berlin Ut enim ad minim veniam, quis nostrud exercitation. Nihil hic munitissimus habendi senatus locus, nihil horum?',
-        image: () =>
-          require('~/assets/images/collections/architecture/image-3.jpg')
-      }
-    ],
-    gallery: [
-      {
-        title: 'The Star Vista',
-        description: 'Photo by Victor Garcia',
-        image: () =>
-          require('~/assets/images/collections/architecture/image-4.jpg')
-      },
-      {
-        title: 'Library and History Centre',
-        description: 'Photo by Victor Garcia',
-        image: () =>
-          require('~/assets/images/collections/architecture/image-6.jpg')
-      },
-      {
-        title: 'ArtScience Museum',
-        description: 'Photo by Victor Garcia',
-        image: () =>
-          require('~/assets/images/collections/architecture/image-5.jpg')
-      }
-    ]
+      'Originally the name salsa was used to label commercially several styles of Latin dance music, but nowadays it is considered a musical style on its own and one of the staples of Latin American culture.<br><br>The first self-identified salsa bands were predominantly assembled by Cuban and Puerto Rican musicians in New York City in the 70s. The music style was based on the late son montuno of Arsenio Rodríguez, Conjunto Chappottín and Roberto Faz. These musicians included Celia Cruz, Rubén Blades, Johnny Pacheco, Machito and Héctor Lavoe.',
   },
   {
-    title: 'Fashion',
+    title: 'Bachata',
     slug: 'fashion',
     info:
-      'Fashion Most important in the Fashion is Mercedem aut nummos unde unde extricat, amaras. Cum sociis natoque penatibus et magnis dis parturient.',
+      'Bachata is a genre of Latin American music that originated in the Dominican Republic in the first half of the 20th century. It is a fusion of southwestern European influences, mainly Spanish guitar music, with indigenous Taino and Sub Saharan African musical elements, representative of the cultural diversity of the Dominican population.',
     image: () => require('~/assets/images/collections/fashion/fashion.jpg'),
     description:
-      'Non equidem invideo, miror magis posuere velit aliquet. Phasellus laoreet lorem vel dolor tempus vehicula. Contra legem facit qui id facit quod lex prohibet. Morbi odio eros, volutpat ut pharetra vitae, lobortis sed nibh. Etiam habebis sem dicantur magna mollis euismod. Praeterea iter est quasdam res quas ex communi.',
+      'The first recorded compositions of bachata were done by José Manuel Calderón from the Dominican Republic. Bachata originates from bolero and son (and later, from the mid-1980s, merengue). The original term used to name the genre was amargue ("bitterness", "bitter music" or "blues music"), until the rather ambiguous (and mood-neutral) term bachata became popular. The form of dance, bachata, also developed with the music..',
     articles: [
       {
         title: 'On her way in style',

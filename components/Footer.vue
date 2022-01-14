@@ -21,12 +21,7 @@
                 title="Collections"
                 exact
               >
-                Collections
-              </nuxt-link>
-            </li>
-            <li class="nav-item">
-              <nuxt-link to="/blog" class="nav-link" title="Blog" exact>
-                Blog
+                Genres
               </nuxt-link>
             </li>
             <li class="nav-item">
