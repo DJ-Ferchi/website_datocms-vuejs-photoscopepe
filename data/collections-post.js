@@ -6,11 +6,11 @@ export default [
       'DJ Ferchi, having resided in Astoria Queens for over 25 years, specializes in cutting hip hop mixing for the dance floor',
     image: () => require('~/assets/images/collections/animals/animals.jpg'),
     description:
-      ' with a strong cultural understanding of what moves people,  a mobile professional lighting system, and 4000 Watts of dancefloor sound power.',
+      'Busta Rhymes at the Wynn in Las Vegas for the Motricity/BET party.',
     articles: [
       {
         title: 'Cumbia',
-        description: 'Short  description for lightbox',
+        description: 'Cumbia Music',
         body:
           'Cumbia music vivamus sagittis lacus vel augue laoreet rutrum faucibus. Petierunt uti sibi concilium totius Galliae in diem certam indicere.',
         image: () => require('~/assets/images/collections/animals/image-1.jpg')

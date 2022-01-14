@@ -29,7 +29,7 @@
               v-for="(s, index) in 5"
               :key="index"
               name="star"
-              fill="#ffe449"
+              fill="#3553ff"
               icon-style="monochrome"
             />
           </div>

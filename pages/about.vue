@@ -115,7 +115,7 @@
       <b-container class="py-4">
         <b-row class="mb-3 pb-2">
           <b-col class="text-center">
-            <h2 class="h5">Trusted by Users All Over the World</h2>
+            <h2 class="h5">Enjoyed all over the World</h2>
           </b-col>
         </b-row>
         <Testimonials :testimonials="testimonials" />
@@ -187,12 +187,12 @@ export default {
             "Create a night to remember.  Get out and see or book DJ Ferchi! Life gets better and better."
         },
         {
-          name: 'Amigo en Pasaje',
+          name: 'Amiga en Pasaje',
           image: () => require('~/assets/images/client2.jpg'),
           company: 'Ecuador',
           occupation: 'Ecuadorian',
           body:
-            "Ferchi esta de Pesaje, Ecuador con un corozon del mundo. Muy professional y mumbatonado."
+            "DJ Ferchi esta de Pesaje, Ecuador con un corozon del mundo. Muy professional y mumbatonado."
         }
       ]
     }
